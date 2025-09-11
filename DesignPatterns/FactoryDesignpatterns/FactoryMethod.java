@@ -1,4 +1,4 @@
-package DesignPatterns;
+package DesignPatterns.FactoryDesignpatterns;
 
 // Product interafce and subclasses
 interface Burger {
