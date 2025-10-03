@@ -2,8 +2,11 @@ package Zomato;
 
 import java.util.*;
 
+@SuppressWarnings("FieldMayBeFinal")
 public class Restaurant {
     private static int nextRestaurantId = 0;
+
+    @SuppressWarnings("unused")
     private int restaurantId;
     private String name;
     private String location;

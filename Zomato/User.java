@@ -1,8 +1,10 @@
 package Zomato;
 
-import java.util.*;
+// import java.util.*;
+@SuppressWarnings("FieldMayBeFinal")
 
 public class User {
+    @SuppressWarnings("unused")
     private int userId;
     private String name;
     private String address;
