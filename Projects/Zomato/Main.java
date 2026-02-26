@@ -1,4 +1,4 @@
-package Zomato;
+package Projects.Zomato;
 
 public class Main {
     public static void main(String[] args) {

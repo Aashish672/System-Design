@@ -1,4 +1,4 @@
-package Zomato;
+package Projects.Zomato;
 
 import java.util.*;
 

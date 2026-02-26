@@ -1,4 +1,4 @@
-package Zomato;
+package Projects.Zomato;
 
 public class DeliveryOrder extends Order {
     private String userAddress;

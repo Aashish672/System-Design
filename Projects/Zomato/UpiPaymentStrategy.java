@@ -1,4 +1,4 @@
-package Zomato;
+package Projects.Zomato;
 
 public class UpiPaymentStrategy implements PaymentStrategy {
     private String mobile;

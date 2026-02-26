@@ -1,4 +1,4 @@
-package TextEditor.BadDesign;
+package Projects.TextEditor.BadDesign;
 
 import java.io.*;
 import java.util.*;

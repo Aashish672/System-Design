@@ -1,4 +1,4 @@
-package Zomato;
+package Projects.Zomato;
 
 public class CreditCardPaymentStrategy implements PaymentStrategy {
     private String cardNumber;
